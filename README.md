@@ -2,6 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# About Project 'daily-log'
+
+* 리액트를 이용한 프로젝트 세팅 (create-react-app)
+* React-router-dom 으로 라우팅
+* Firebase auth를 이용한 사용자 인증
+* Firebase Firestore를 이용한 게시판 CRUD
+* Context API를 이용한 상태관리
+* FIREbase CLI로 배포
+
+
 ## Available Scripts
 
 In the project directory, you can run:
