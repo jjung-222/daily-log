@@ -1,10 +1,10 @@
 import { Route, Routes, Navigate } from "react-router-dom";
 import Home from "../pages/home";
 import PostList from "../pages/posts";
-import PostDetail from "../pages/posts";
-import PostEdit from "../pages/posts";
-import NewPage from "../pages/posts";
-import ProfilePage from "../pages/posts";
+import PostDetail from "../pages/posts/datail";
+import PostEdit from "../pages/posts/edit";
+import NewPage from "../pages/posts/new";
+import ProfilePage from "../pages/profile";
 import LoginPage from "../pages/login";
 import SignupPage from "../pages/signup";
 
