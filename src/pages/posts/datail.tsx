@@ -6,7 +6,7 @@ export default function PostPage() {
     return (
         <>
             <Header />
-            <PostDetail></PostDetail>;
+            <PostDetail/>;
             <Footer />
         </>
     )
